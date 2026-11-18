@@ -1,0 +1,12 @@
+build/
+build-*/
+cmake-build-*/
+*.o
+*.tmk
+*.bin
+data/*.tsv
+!data/muestra.tsv
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
